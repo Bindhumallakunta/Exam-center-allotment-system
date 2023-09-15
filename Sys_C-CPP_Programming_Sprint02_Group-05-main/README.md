@@ -1,2 +1,0 @@
-# Sys_C-CPP_Programming_Sprint02_Group-05
-EXAM CENTRE ALLOTMENT SYSTEM
